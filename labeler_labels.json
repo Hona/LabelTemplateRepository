@@ -1,0 +1,89 @@
+{
+	"labels": [
+		{
+			"name": "Status: Ready",
+			"description": "",
+			"color": "0e8a16"
+		},
+		{
+			"name": "Status: Blocked",
+			"description": "",
+			"color": "FC8264"
+		},
+		{
+			"name": "Status: In Progress",
+			"description": "",
+			"color": "EAE435"
+		},
+		{
+			"name": "Type: Question",
+			"description": "",
+			"color": "FF6DD9"
+		},
+		{
+			"name": "Type: Feature",
+			"description": "",
+			"color": "6DFF6D"
+		},
+		{
+			"name": "Type: Idea",
+			"description": "",
+			"color": "6DE6FF"
+		},
+		{
+			"name": "Type: Bug",
+			"description": "",
+			"color": "ff2222"
+		},
+		{
+			"name": "Priority: Critical",
+			"description": "",
+			"color": "ff2222"
+		},
+		{
+			"name": "Priority: High",
+			"description": "",
+			"color": "FF7922"
+		},
+		{
+			"name": "Priority: Medium",
+			"description": "",
+			"color": "fbca04"
+		},
+		{
+			"name": "Priority: Low",
+			"description": "",
+			"color": "c2e0c6"
+		},
+		{
+			"name": "For: Backend",
+			"description": "",
+			"color": "5319e7"
+		},
+		{
+			"name": "For: Frontend",
+			"description": "",
+			"color": "AC97F2"
+		},
+		{
+			"name": "For: DevOps",
+			"description": "",
+			"color": "1d76db"
+		},
+		{
+			"name": "For: Documentation",
+			"description": "",
+			"color": "BABABA"
+		},
+		{
+			"name": "Impacts: UI/UX",
+			"description": "",
+			"color": "7ED321"
+		},
+		{
+			"name": "Impacts: Developers",
+			"description": "",
+			"color": "006b75"
+		}
+	]
+}
