@@ -1,5 +1,15 @@
+<div align="center">
+
 # LabelTemplateRepository
 GitHub labels template for copying
+
+## Example
+
+I provided the following template config
+
+![](_docs/img/labels-dark.png) ![](_docs/img/labels-light.png)
+
+
 
 ## Prerequisites
 
@@ -16,7 +26,10 @@ labeler -t [ghp_GITHUB_PERSONAL_ACCESS_TOKEN] -o [USER/ORGANISATION] -r [REPOSIT
 ```
 
 `-d`: Delete all existing labels
+
 `-u`: Upload labels from file
 
 **Optional**
 `-f`: Runs headlessly
+
+</div>
