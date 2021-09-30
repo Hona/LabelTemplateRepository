@@ -7,9 +7,9 @@ GitHub labels template for copying
 
 I provided the following template config
 
-![](_docs/img/labels-dark.png) ![](_docs/img/labels-light.png)
-
-
+GitHub Dark             |  GitHub Light (Default)
+:-------------------------:|:-------------------------:
+![](_docs/img/labels-dark.png)  |  ![](_docs/img/labels-light.png)
 
 ## Prerequisites
 
