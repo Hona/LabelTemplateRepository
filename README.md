@@ -13,7 +13,7 @@ GitHub Dark             |  GitHub Light (Default)
 
 ## Prerequisites
 
- - Requires [Labeler](https://github.com/Zebiano/Labeler)
+Requires [Labeler](https://github.com/Zebiano/Labeler)
 
 ## Usage
 
