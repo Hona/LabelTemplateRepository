@@ -16,6 +16,11 @@
 			"color": "EAE435"
 		},
 		{
+			"name": "Type: Epic",
+			"description": "",
+			"color": "BFD4F2"
+		},
+		{
 			"name": "Type: Question",
 			"description": "",
 			"color": "FF6DD9"
