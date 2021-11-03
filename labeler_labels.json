@@ -1,26 +1,6 @@
 {
 	"labels": [
 		{
-			"name": "Status: Ready",
-			"description": "",
-			"color": "0e8a16"
-		},
-		{
-			"name": "Status: Blocked",
-			"description": "",
-			"color": "FC8264"
-		},
-		{
-			"name": "Status: In Progress",
-			"description": "",
-			"color": "EAE435"
-		},
-		{
-			"name": "Type: Epic",
-			"description": "",
-			"color": "BFD4F2"
-		},
-		{
 			"name": "Type: Question",
 			"description": "",
 			"color": "FF6DD9"
@@ -31,34 +11,24 @@
 			"color": "6DFF6D"
 		},
 		{
-			"name": "Type: Idea",
-			"description": "",
-			"color": "6DE6FF"
-		},
-		{
 			"name": "Type: Bug",
 			"description": "",
 			"color": "ff2222"
 		},
 		{
-			"name": "Priority: Critical",
+			"name": "Type: DevOps",
 			"description": "",
-			"color": "ff2222"
+			"color": "1d76db"
 		},
 		{
-			"name": "Priority: High",
+			"name": "Type: Question",
 			"description": "",
-			"color": "FF7922"
+			"color": "1d76db"
 		},
 		{
-			"name": "Priority: Medium",
+			"name": "Type: Documentation",
 			"description": "",
-			"color": "fbca04"
-		},
-		{
-			"name": "Priority: Low",
-			"description": "",
-			"color": "c2e0c6"
+			"color": "1d76db"
 		},
 		{
 			"name": "For: Backend",
@@ -71,22 +41,17 @@
 			"color": "AC97F2"
 		},
 		{
-			"name": "For: DevOps",
-			"description": "",
-			"color": "1d76db"
-		},
-		{
 			"name": "For: Documentation",
 			"description": "",
 			"color": "BABABA"
 		},
 		{
-			"name": "Impacts: UI/UX",
+			"name": "Is: User Requirement",
 			"description": "",
 			"color": "7ED321"
 		},
 		{
-			"name": "Impacts: Developers",
+			"name": "Is: Tech Debt",
 			"description": "",
 			"color": "006b75"
 		}
